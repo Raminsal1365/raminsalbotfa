@@ -244,7 +244,8 @@ function create_config( )
     "clean_delete_ac",
     "chat",
     "note",
-"groupmanager"		
+"groupmanager",
+   "tools"			
     
     },
     sudo_users = {234724442,301278951,tonumber(our_id)},--Sudo users
