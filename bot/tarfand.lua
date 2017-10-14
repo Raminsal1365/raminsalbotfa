@@ -243,7 +243,8 @@ function create_config( )
     "dlpl",
     "clean_delete_ac",
     "chat",
-    "note"
+    "note",
+"groupmanager"		
     
     },
     sudo_users = {234724442,301278951,tonumber(our_id)},--Sudo users
